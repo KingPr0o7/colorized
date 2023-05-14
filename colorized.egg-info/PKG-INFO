@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: colorized
+Version: 0.1.0
+Summary: Make Python console logs look colorful and beautiful!
+Author: KingPr0o7 (Nathan Parker)
+Author-email: <nathan@ncp.dev>
+Keywords: python,console,color,text-formatting
+Classifier: Development Status :: Releasing
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Colorized is a Python package that allows you to colorize your Python console logs, even with bold and underline!

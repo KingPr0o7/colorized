@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+colorized/__init__.py
+colorized/color_str.py
+colorized.egg-info/PKG-INFO
+colorized.egg-info/SOURCES.txt
+colorized.egg-info/dependency_links.txt
+colorized.egg-info/top_level.txt
