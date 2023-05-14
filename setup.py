@@ -19,7 +19,7 @@ setup(
     install_requires = [],
     keywords = ['python', 'console', 'color', 'text-formatting'],
     classifiers = [
-        "Development Status :: Releasing",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
