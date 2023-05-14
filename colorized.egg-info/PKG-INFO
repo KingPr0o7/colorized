@@ -5,7 +5,7 @@ Summary: Make Python console logs look colorful and beautiful!
 Author: KingPr0o7 (Nathan Parker)
 Author-email: <nathan@ncp.dev>
 Keywords: python,console,color,text-formatting
-Classifier: Development Status :: Releasing
+Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
